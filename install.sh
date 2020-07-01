@@ -1,0 +1,1 @@
+deno install -A --unstable -f --name lcreate ./index.ts
